@@ -1,2 +1,2 @@
-# jbeguinot.github.io
+# julienbeg.github.io
 Personal academic webpage
